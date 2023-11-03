@@ -1,0 +1,71 @@
+.stock{
+    position: absolute;
+    border-radius: 4px;
+    padding: 2px 12px;
+    font-size: 12px;
+    margin:8px;
+}
+
+.product-card {
+    width: 100%;
+    color: #0a0a0a;
+    margin: auto;
+    background-color: #c38b73;
+    border: 1px solid #fbfbfb;
+    
+}
+.product-card-body{
+    padding: 10px 10px;
+    border: 1px solid;
+    border-radius: 0px;
+    margin-top:0;
+    background-color: #f9f8f8fe;
+}
+ .product-brand{
+    font-size: 14px;
+    font-weight: 400;
+    white-space: normal;
+}
+ .product-name{
+    font-size: 10px;
+    font-weight: 600;
+    color: #1076f4;
+    white-space: normal;
+}
+.selling-price{
+    font-size: 22px;
+    color: #07c627;
+    font-weight: 600;
+    margin-right: 8px;
+}
+ .original-price{
+    font-size: 18px;
+    color: #937979;
+    font-weight: 400;
+    text-decoration: line-through;
+}
+.btn1{
+    background-color:#f8c716;
+    color:#f4f3f0;
+    border:none;
+    padding:5px 10px;
+    cursor:pointer;
+}
+.btn2{
+    color:#f70303;
+}
+.md-3{
+    float: left;
+    width: 500;
+    height: 600;
+}
+.login{
+    background-color: #E9C46A;
+}
+ .reg
+{
+    background-color: #2A9D8F;
+}
+.bg{
+    background-color: #a8dadc;
+}
